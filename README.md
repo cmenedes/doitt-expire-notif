@@ -39,7 +39,7 @@ note: any actual emails, names, servers, and databases have been omitted for sec
 
 
 
-4.	An output email sent, in the case of the data above, to TestUser (user1@doitt)
+4.	An output email sent, in the case of the data above, to User1 (user1@doitt)
  
 To: user1@email.com
 From: our-dev-group@email.com
